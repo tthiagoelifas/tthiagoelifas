@@ -1,7 +1,7 @@
 # 👋 Oi, Eu sou Thiago Elifas!
 - 👀 Estou interessado em aprender coisas novas!
 - 🌱 Estou atualmente estudado na Rocketseat, em desenvolvimento Full-Stack na trilha Explorer.
-- 💞️ Estou procurando colaborar em projetos que vão amentar minha experiência como desenvolvedor!!!
+- 💞️ Estou procurando colaborar em projetos que vão aumentar minha experiência como desenvolvedor!!!
 - 📫 Contato, tthiagoelifas@gmail.com ou em [Thiago Links](https://tthiagoelifas.github.io/thiago-elifas-links/)
 
 <!---

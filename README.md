@@ -1,7 +1,7 @@
 # 👋 Oi, Eu sou Thiago Elifas!
 ## 🚀 Sobre mim
-- 👀 Estou interessado em aprender coisas novas!
-- 🌱 Estou atualmente estudado na Rocketseat, em desenvolvimento Full-Stack na trilha Explorer.
+- 👨‍💻 Sou um Desenvolvedor FrontEnd!
+- 🚀 Hoje estou estudando Ciências da Computação pela Estácio e Desenvolvimento Web pela Rocketseat na trilha Explorer onde prático os conhecimentos aprendidos realizando vários projetos usando JavaScript, Node.JS, React.JS, HTML, CSS.
 - 💞️ Estou procurando colaborar em projetos que vão aumentar minha experiência como desenvolvedor!!!
 - 📫 Contato, tthiagoelifas@gmail.com ou em [Thiago Links](https://tthiagoelifas.github.io/thiago-elifas-links/)
 

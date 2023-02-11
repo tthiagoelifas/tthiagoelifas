@@ -6,7 +6,11 @@
 - 📫 Contato, tthiagoelifas@gmail.com ou em [Thiago Links](https://tthiagoelifas.github.io/thiago-elifas-links/)
 
 ## 🛠 Habilidades
-Javascript, Node.JS, HTML, CSS
+
+- `Javascript`
+- `Node.JS`
+- `HTML`
+- `CSS`
 
 
 ## 🔗 Links
